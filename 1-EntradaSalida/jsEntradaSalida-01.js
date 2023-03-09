@@ -7,18 +7,23 @@ function mostrar()
 	var i;
 	var mensajeDos;
 	var mensajeTres;
-	var flag;
+	//var flag;
 	var mensajeCuatro;
 	//var idElement;
 	//idElement= document.getElementById('txtIdImporte').value;
 
-	flag = true;
+	/* flag = true; */
 	i=0;
-	if (flag = true){
+	f= 0
+	for (let f = 0; f < 9; f++) {
+		console.log(f);
+	}
+
+/* 	if (flag = true){
 		i = i + 1;
 		flag = false;
 	}
-
+ */
 	
 	/*
 	
