@@ -5,6 +5,7 @@ function mostrar()
 {
 	var mensajeUno;
 	var i;
+	var f;
 	var mensajeDos;
 	var mensajeTres;
 	//var flag;
@@ -14,8 +15,7 @@ function mostrar()
 
 	/* flag = true; */
 	i=0;
-	f= 0
-	for (let f = 0; f < 9; f++) {
+	for (var f = 0; f < 9; f++) {
 		console.log(f);
 	}
 
